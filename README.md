@@ -1,1 +1,1 @@
-# AI_dev
+# Hand-gesture-deep-learning
