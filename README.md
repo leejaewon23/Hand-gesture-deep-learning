@@ -1,4 +1,4 @@
-# Hand Gesture Deep Learning
+# 👏 Hand Gesture Deep Learning
 
 PyTorch와 Google Colab을 이용해 LeapGestRecog 손 제스처 이미지를 분류하는 딥러닝 실험 저장소입니다. 기본 CNN 모델부터 EfficientNet-B3 전이학습 모델까지 비교하며, 최종 노트북에는 Gradio 기반 예측 데모까지 포함되어 있습니다.
 
